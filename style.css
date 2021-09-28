@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+header{
+    background: #1D365D;
+    height: 61px;
+}
+header .logo img{
+    height: 41px;
+    margin-top: 10px;
+    margin-left: 53px;
+}
+main{
+    padding-left: 15%;
+}
+main .content{
+    width: 70%;
+    -webkit-box-shadow: 0px 0px 6px 0px rgba(34, 60, 80, 0.5);
+    -moz-box-shadow: 0px 0px 6px 0px rgba(34, 60, 80, 0.5);
+    box-shadow: 0px 0px 6px 0px rgba(34, 60, 80, 0.5);
+}
+main .content article{
+    margin: 0 5%;
+    padding: 3% 0;
+}
